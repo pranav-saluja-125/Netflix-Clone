@@ -1,0 +1,83 @@
+body {
+  background-color: rgba(20, 20, 20, 1);
+  font-family: 'Times New Roman', Times, serif;
+}
+
+header{
+  height: 10vh;
+  padding-top: 15px;
+}
+
+h2 {
+  color: white;
+  width: auto;
+  height: 10vh;
+  padding-top: 10px;
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 82px;
+  text-align: center;
+}
+
+a:link { 
+  text-decoration: none; 
+  color: rgba(109, 109, 110, 0.7);
+}
+
+a:visited {
+   text-decoration: none; 
+   color: rgba(109, 109, 110, 0.7)
+  }
+
+a:hover {
+   text-decoration: none; 
+   color: rgba(145, 145, 155, 0.7);
+  }
+
+a:active {
+   text-decoration: none; 
+  }
+
+.login{
+  display: flex;
+  width: 80%;
+  justify-content:space-evenly;
+  padding-left: 120px;
+
+}
+.login:active{
+  text-decoration: none;
+}
+
+
+.add {
+  margin-top: 58px;
+}
+p{
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 33.2px;
+  align-items: center;
+  text-align: center;
+}
+
+
+
+.btn {
+  background:rgba(20, 20, 20, 1);
+  color: rgba(128, 128, 128, 1);
+  width: auto;
+  padding: 10px 20px 10px 20px;
+  display: grid;
+  margin: auto;
+  line-height: 20px;
+}
+
+
+.btn:hover {
+  background-color: rgb(56, 55, 55);
+  cursor: pointer;
+}
+a {
+  text-decoration: none;
+}
