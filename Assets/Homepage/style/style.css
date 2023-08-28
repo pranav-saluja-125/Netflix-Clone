@@ -156,11 +156,12 @@ section .category h2{
 
 section .slide{
     padding-left: 50px;
+    display:inline-flex;
 }
 
 section .slide-single{
     height: 10em;
-    margin: 15px 5px 15px 0px;
+    margin: 15px 10px 15px 0px;
 }
 
 section .slide-single:hover{
