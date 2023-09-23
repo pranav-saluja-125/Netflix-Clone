@@ -6,7 +6,7 @@ It contains :
 
 ![Screenshot 2023-09-07 013030](https://github.com/pranav-saluja-125/Netflix-Clone/assets/111756527/11b0ff29-5f7a-423c-b7b0-7fe04cb5f32e)
 
-  ## Main Page with movies and series
+  ## Main Page containing Movies and Series titles
 
 ![Screenshot 2023-09-07 013111](https://github.com/pranav-saluja-125/Netflix-Clone/assets/111756527/a1254c67-ef58-4f7a-9b24-40fc6bdf86a4)
 
