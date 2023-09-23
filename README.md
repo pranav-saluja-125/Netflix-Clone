@@ -11,7 +11,7 @@ It contains :
 ![Screenshot 2023-09-07 013111](https://github.com/pranav-saluja-125/Netflix-Clone/assets/111756527/a1254c67-ef58-4f7a-9b24-40fc6bdf86a4)
 
 
-  ## Profiles section
+  ## Profiles Section
 
 ![Screenshot 2023-09-07 013236](https://github.com/pranav-saluja-125/Netflix-Clone/assets/111756527/e3badfa7-6518-4f86-8aad-8e02f626a80a)
 
